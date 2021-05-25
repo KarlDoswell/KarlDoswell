@@ -10,7 +10,7 @@ Backend  - Node.js | Express | Python | Flask
 
 Database - MongoDB | Postgres 
 
-DevOps   - GCP | GKE | Kubernetes | Docker | Terraform 
+DevOps   - GCP | Kubernetes (GKE) | Docker | Terraform 
 
 <!---
 KarlDoswell/KarlDoswell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
