@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarlDoswell
-- 🏢 I'm the Application Architect at @themindlab
-- 🌱 I’m currently learning DevOps - Serverless.
+- 🏢 I'm the former Application Architect at @themindlab and soon to be Systems Engineer at ISMS.online
+- 🌱 I’m currently learning AWS - Kubernetes - Terraform - Linux.
 
 <h3>Tech Stack:</h3>
 
