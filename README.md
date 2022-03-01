@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KarlDoswell
-- 🏢 I'm the former Application Architect at @themindlab, now the Systems Engineer at ISMS.online
-- 🌱 I’m currently learning Everything to do with ISMS.online and their platform
+- 🏢 I'm the at ISMS.online
 
 <h3>Tech Stack:</h3>
 
