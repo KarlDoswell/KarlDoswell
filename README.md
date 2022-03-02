@@ -1,15 +1,13 @@
 - 👋 Hi, I’m @KarlDoswell
-- 🏢 I'm the at ISMS.online
+- 🏢 I'm the systems engineer at ISMS.online
 
 <h3>Tech Stack:</h3>
 
 Frontend - HTML/CSS/JS | React | Redux
 
-Backend  - Node.js | Express | Python | Flask
+Backend  - Node.js | Express 
 
-Database - MongoDB | Postgres 
-
-DevOps   - GCP | Kubernetes (GKE) | Docker | Terraform 
+DevOps   - GCP | AWS | Kubernetes (GKE, EKS) | Docker | Terraform | Helm
 
 <!---
 KarlDoswell/KarlDoswell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
